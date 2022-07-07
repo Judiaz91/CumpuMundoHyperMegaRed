@@ -4,4 +4,6 @@ JcD tiene 31 años y nacio en Colombia.
 
 Main 1
 
+Main 2
+
 Mañana hablaremos de otros comandos de git.

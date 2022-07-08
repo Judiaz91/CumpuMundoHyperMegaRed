@@ -8,5 +8,6 @@ Un Blog de prueba para el curso de Git y GitHub de Platzi
 - Buenas prácticas
 - Trucos locos
 - Resolucion de conflictos
+- Creado por el increible Jc
 
 ### Y mucho más....
